@@ -14,6 +14,11 @@ Cuando el usuario haga click en alguno de los pokemons, se muestra más detalles
 - Lista de Movimientos (campo name en moves)
 # Develop
 npm run dev
+## Endpoint documentation (Swagger)
+http://localhost:3000/docs
+
 
 # Start Application
 npm run start
+## Endpoint documentation (Swagger)
+https://challenge-jemersoft.herokuapp.com/docs
