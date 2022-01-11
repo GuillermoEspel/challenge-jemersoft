@@ -2,9 +2,9 @@ const options = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'PokeAPI',
+      title: 'Challenge Jemersoft',
       version: '1.0.0',
-      description: 'Description'
+      description: 'REST API in Node.js - Pokemon API'
     },
     servers: [
       {
